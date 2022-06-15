@@ -1,1 +1,39 @@
 # Data-Engineering-Projects
+
+# This page documents various data engineering projects.  Many of the projects I have done at work cannot be shared publicly due to various regulatory restrictions. However, many of the techniques and concepts are transferrable. I have identified a number of such practical projects that I can apply these skills. I would want to share here at github.  
+
+# Project 1 - SQL - Datacamp's Analyzing NYC Public School Test Records 
+
+> Concepts covered: initial inspecting data, finding missing data, filtering, ranking window function, 
+
+## Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process. In this project, you will work with a SQL database containing test performance from NYC's public schools. You will look at how performance varies by borough, identify how many schools fail to report information, and find the top ten performing schools across the city!
+
+# Project 2 - SQL - Datacamp's Analyzing American Baby Name Trends 
+
+> Concepts covered: various categorization and ranking techniques, common expression tables, complex subqueries. 
+
+## What makes a name timeless or trendy? In this project, you'll use data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes. The ranking, grouping, joining, ordering, and pattern matching skills you'll use in this project are broadly applicable: understanding changing tastes is a key competency for businesses as well as parents searching for a baby name!
+
+## Resources
+
+
+## Notes
+
+Describe any challenges encountered while doing the work
+
+
+## License
+
+    Copyright [2022] [Evan Xu]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
