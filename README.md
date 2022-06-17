@@ -1,6 +1,7 @@
 # Data-Engineering-Projects
 
-# This page documents various data engineering projects.  Many of the projects I have done at work cannot be shared publicly due to various regulatory restrictions. However, many of the techniques and concepts are transferrable. I have identified a number of such practical projects that I can apply these skills. I would want to share here at github.  
+# This page documents various data engineering projects.  I have done many at work cannot be shared publicly due to various regulatory restrictions. However, many techniques and concepts are transferrable. I have identified a number of such practical projects that I can apply these skills. I would want to share here at github.  
+# Postgre SQL, SQL Server, Jupyter 
 
 # Project 1 - SQL - Datacamp's Analyzing NYC Public School Test Records 
 
@@ -13,6 +14,10 @@
 > Concepts covered: various categorization and ranking techniques, common expression tables, complex subqueries. 
 
 ## What makes a name timeless or trendy? In this project, you'll use data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes. The ranking, grouping, joining, ordering, and pattern matching skills you'll use in this project are broadly applicable: understanding changing tastes is a key competency for businesses as well as parents searching for a baby name!
+
+# Project 3 - SQL - The oldest's business in the world 
+
+> Concepts covered: join, filter within aggregated groups. 
 
 ## Resources
 
