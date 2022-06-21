@@ -19,6 +19,16 @@
 
 > Concepts covered: join, filter within aggregated groups. 
 
+# Project 4 - Python, Pandas/matplotlib libraries - Exploratory Data Analysis- Investigating Netflix Movies and Guest Stars in The Office 
+
+##What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021. Given the large number of movies and series available on the platform, it is a perfect opportunity to flex our data manipulation skills and dive into the entertainment industry.
+
+## preliminary findings: non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses.
+
+> Concepts covered: data manipulation, zip() method, dictionary data structures, DataFrame, visualization, scatter plot, subsetting, iterrows(), 
+
+> link to the data analysis file: https://app.datacamp.com/workspace/w/e41b60f1-fbb5-469d-83b1-841df1cddfc7
+> 
 ## Resources
 
 
