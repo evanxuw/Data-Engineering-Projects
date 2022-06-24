@@ -21,14 +21,21 @@
 
 # Project 4 - Python, Pandas/matplotlib libraries - Exploratory Data Analysis- Investigating Netflix Movies and Guest Stars in The Office 
 
-##What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021. Given the large number of movies and series available on the platform, it is a perfect opportunity to flex our data manipulation skills and dive into the entertainment industry.
+## What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021. Given the large number of movies and series available on the platform, it is a perfect opportunity to flex our data manipulation skills and dive into the entertainment industry.
 
 ## preliminary findings: non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses.
 
-> Concepts covered: data manipulation, zip() method, dictionary data structures, DataFrame, visualization, scatter plot, subsetting, iterrows(), 
+> Concepts covered: data manipulation, zip() method, dictionary data structures, DataFrame, visualization, scatter plot, subsetting, iterrows(). 
 
 > link to the data analysis file: https://app.datacamp.com/workspace/w/e41b60f1-fbb5-469d-83b1-841df1cddfc7
-> 
+
+
+# Project 5 - SQL - Analyze International Debt Stats 
+
+## This project analyzes international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. Interesting questions to answer: a. What is the total amount of debt that is owed by the countries listed in the dataset? b. Which country owns the maximum amount of debt and what does that amount look like? c. What is the average amount of debt owed by countries across different debt indicators?
+
+> Concepts/Techniques covered: data manipulation within SQL,  Importing/Cleaning data, Join/CWE. 
+
 ## Resources
 
 
